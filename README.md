@@ -18,3 +18,5 @@ The sequence for following the scripts instruction wise is as follows:
 12. Operations of Linear Algebra
 13. Numpy Random Number Generation
 14. Implementation Random Walks (Case Scenario Implementation)
+15. Getting Started with Pandas Series
+16. Getting Started with Pandas DataFrames
