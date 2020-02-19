@@ -20,3 +20,7 @@ The sequence for following the scripts instruction wise is as follows:
 14. Implementation Random Walks (Case Scenario Implementation)
 15. Getting Started with Pandas Series
 16. Getting Started with Pandas DataFrames
+17. Handling Pandas Index Objects
+18. Index Object Methods
+19. Reindexing
+20. Dropping Entries from Axis
