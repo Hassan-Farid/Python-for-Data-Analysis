@@ -29,3 +29,6 @@ The sequence for following the scripts instruction wise is as follows:
 23. Apply Methods for DataFrames
 24. Sorting and Ranking
 25. Axis Indexes with Duplicate Values
+26. Computing Descriptive Statistics
+27. Unique Values, Value Counts and Membership
+28. Handling Missing Data Operations
