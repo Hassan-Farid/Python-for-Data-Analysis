@@ -24,3 +24,8 @@ The sequence for following the scripts instruction wise is as follows:
 18. Index Object Methods
 19. Reindexing
 20. Dropping Entries from Axis
+21. Indexing, Selecting and Filtering Operations
+22. Arithmetic and Data Alignment
+23. Apply Methods for DataFrames
+24. Sorting and Ranking
+25. Axis Indexes with Duplicate Values
