@@ -32,3 +32,7 @@ The sequence for following the scripts instruction wise is as follows:
 26. Computing Descriptive Statistics
 27. Unique Values, Value Counts and Membership
 28. Handling Missing Data Operations
+29. Hierarchical Indexing
+30. Reordering and Sorting Levels
+31. Applying Summary Statistics to Levels
+32. Using DataFrame Columns as a Hierarchical Form
