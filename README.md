@@ -37,3 +37,7 @@ The sequence for following the scripts instruction wise is as follows:
 31. Applying Summary Statistics to Levels
 32. Using DataFrame Columns as a Hierarchical Form
 33. Reading Data from CSV Files
+34. Reading CSV Files in Pieces
+35. Writing Data to CSV Files
+36. Using the CSV Module
+37. Using JSON Module
