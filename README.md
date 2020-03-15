@@ -41,3 +41,6 @@ The sequence for following the scripts instruction wise is as follows:
 35. Writing Data to CSV Files
 36. Using the CSV Module
 37. Using JSON Module
+38. Pickle Serialization
+39. Using HDF5 Formats
+40. Reading Excel Files using Pandas
