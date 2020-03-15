@@ -44,3 +44,8 @@ The sequence for following the scripts instruction wise is as follows:
 38. Pickle Serialization
 39. Using HDF5 Formats
 40. Reading Excel Files using Pandas
+41. Handling Data from Databases
+42. Database Style DataFrame Merges
+43. Merging Data using Index
+44. Concatenating Along an Axis
+45. Combining Data with Overlap
