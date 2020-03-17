@@ -49,3 +49,8 @@ The sequence for following the scripts instruction wise is as follows:
 43. Merging Data using Index
 44. Concatenating Along an Axis
 45. Combining Data with Overlap
+46. Pivoting Long to Wide Format
+47. Removing Duplicates
+48. Data Transformation using Functions or Mapping
+49. Replacing Values
+50. Renaming Axes Indexes
